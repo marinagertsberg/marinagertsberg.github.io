@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social movements | Marina</title>
+    <link>https://marinagertsberg.github.io/tag/social-movements/</link>
+      <atom:link href="https://marinagertsberg.github.io/tag/social-movements/index.xml" rel="self" type="application/rss+xml" />
+    <description>social movements</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinagertsberg.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>social movements</title>
+      <link>https://marinagertsberg.github.io/tag/social-movements/</link>
+    </image>
+    
+    <item>
+      <title>The Unintended Consequences of MeToo Evidence from Research Collaborations</title>
+      <link>https://marinagertsberg.github.io/research/metoo/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://marinagertsberg.github.io/research/metoo/</guid>
+      <description>&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;Presentations (selected)&amp;#58; SEA 2022, Conference on Diversity, Equity and Inclusion in Economics, Finance, and Central Banking 2022, Discrimination and Diversity Workshop 2023, ECBE 2023, AEA 2024.&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;How did &amp;#35;MeToo alter the cost of collaboration between women and men? I show junior female academics start fewer projects after &amp;#35;MeToo. A decrease in collaborations with new male co-authors at the same institution largely explains the decline in projects. The decrease is more pronounced when sexual harassment policies are less clear, in universities with more (public) incidents of sexual harassment, and when amended Title IX regulations (2020) are less favorable towards the accused. This is consistent with men managing a higher perceived risk of sexual harassment accusations as a potential explanation for the decrease in collaborations. Overall, &amp;#35;MeToo appears to bring unintended consequences that impact the career opportunities of junior women. &lt;/p&gt; &lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px; color:navy;&#34;&gt;Note&amp;#58; While I have not pre-registered the study, I am providing the access to the original time-stamped (unsuccessful) grant proposal for this study (dated June, 9 2021).&lt;/p&gt; 
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /research/metoo/figure2_hucbb1fc0cb29a3a8a8ed3b3b2014c76d7_330558_97956ac92cce30491ebcd184de67c898.webp 400w,
+               /research/metoo/figure2_hucbb1fc0cb29a3a8a8ed3b3b2014c76d7_330558_861dccf34bdd35e2cc7ab33eec47317f.webp 760w,
+               /research/metoo/figure2_hucbb1fc0cb29a3a8a8ed3b3b2014c76d7_330558_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://marinagertsberg.github.io/research/metoo/figure2_hucbb1fc0cb29a3a8a8ed3b3b2014c76d7_330558_97956ac92cce30491ebcd184de67c898.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;475&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Overview of coefficients on the post dummy from a regression where the dependent variable is the number of new projects started with different co-author types in a given year by a junior female academic (N=393).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

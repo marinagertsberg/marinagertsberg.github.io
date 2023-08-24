@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>evaluators | Marina</title>
+    <link>https://marinagertsberg.github.io/tag/evaluators/</link>
+      <atom:link href="https://marinagertsberg.github.io/tag/evaluators/index.xml" rel="self" type="application/rss+xml" />
+    <description>evaluators</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinagertsberg.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>evaluators</title>
+      <link>https://marinagertsberg.github.io/tag/evaluators/</link>
+    </image>
+    
+    <item>
+      <title>The Disciplining Effect of Status Evaluator Status Attainment and Observed Gender Bias in Evaluations</title>
+      <link>https://marinagertsberg.github.io/research/evalutions/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://marinagertsberg.github.io/research/evalutions/</guid>
+      <description>&lt;hr&gt;
+&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Management Science (2021)&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:10px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; We theorize that status awards will have a disciplining effect on evaluators, changing how they evaluate. Specifically, status awards will lead evaluators to place less weight on unreliable indicators of candidate quality, such as gender. We test this theory using data from restaurant evaluations on Yelp, focusing on the relationship between an evaluator’s restaurant rating and their reporting of being served by a man or a woman in their review text. We use Yelp’s evaluator status award (“Elite”) to analyze whether observed gender bias in the star ratings given to restaurants decreases after an evaluator receives this status award. We find that evaluators rate restaurants more similarly after receiving the award, regardless of whether they report being served by a man or a woman. Status awards in our context close the gender gap in restaurant ratings by 56.5% (a 0.07 stars improvement out of an initial rating gap of −0.13 stars). This reduction in gender bias is mostly due to a decrease in the number of extremely low (1 star) ratings in reviews that reference female servers. Research on status and evaluations has mostly focused on how evaluators react to increases in candidate status. We demonstrate the importance of evaluator status as a mechanism for decreasing observed gender differences in evaluations.
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

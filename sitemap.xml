@@ -2,235 +2,279 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://volkovacodes.github.io/talk/example-talk/</loc>
+    <loc>https://marinagertsberg.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/event/</loc>
+    <loc>https://marinagertsberg.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/publication-type/7/</loc>
+    <loc>https://marinagertsberg.github.io/publication-type/3/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/antitrust/</loc>
+    <loc>https://marinagertsberg.github.io/publication-type/7/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/research/antitrust/</loc>
+    <loc>https://marinagertsberg.github.io/tag/board-of-directors/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/business-formation/</loc>
+    <loc>https://marinagertsberg.github.io/tag/corporate-culture/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/economic-activity/</loc>
+    <loc>https://marinagertsberg.github.io/tag/corporate-governance/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/employment/</loc>
+    <loc>https://marinagertsberg.github.io/tag/gender/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/publication_types/</loc>
+    <loc>https://marinagertsberg.github.io/tag/gender-quota/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/research/</loc>
+    <loc>https://marinagertsberg.github.io/research/board_quota/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tags/</loc>
+    <loc>https://marinagertsberg.github.io/publication_types/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/government-activity/</loc>
+    <loc>https://marinagertsberg.github.io/research/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/regulation/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/regulations/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/social-movements/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tags/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/research/metoo/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/research/first_move/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/government-activity/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/productivity/</loc>
+    <loc>https://marinagertsberg.github.io/tag/productivity/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/regulation/</loc>
+    <loc>https://marinagertsberg.github.io/tag/regulatory-fragmentation/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/regulatory-fragmentation/</loc>
+    <loc>https://marinagertsberg.github.io/research/fragmentation/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/research/fragmentation/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://volkovacodes.github.io/tag/block-diversity/</loc>
+    <loc>https://marinagertsberg.github.io/tag/block-diversity/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/blockholders/</loc>
+    <loc>https://marinagertsberg.github.io/tag/blockholders/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/blocks/</loc>
+    <loc>https://marinagertsberg.github.io/tag/blocks/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/financial-performance/</loc>
+    <loc>https://marinagertsberg.github.io/tag/financial-performance/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/research/blockholders/</loc>
+    <loc>https://marinagertsberg.github.io/research/blockholders/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/lawsuits/</loc>
+    <loc>https://marinagertsberg.github.io/tag/lawsuits/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/shareholder-votes/</loc>
+    <loc>https://marinagertsberg.github.io/tag/shareholder-votes/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/data/blocks/</loc>
+    <loc>https://marinagertsberg.github.io/research/esg_directors/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/charity-experience/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/director-appointments/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/esg-incidents/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/social-issues/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/data/blocks/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/data/</loc>
+    <loc>https://marinagertsberg.github.io/tag/data/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/data/</loc>
+    <loc>https://marinagertsberg.github.io/data/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/ownership/</loc>
+    <loc>https://marinagertsberg.github.io/tag/ownership/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/</loc>
+    <loc>https://marinagertsberg.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/fragmentation/</loc>
+    <loc>https://marinagertsberg.github.io/tag/fragmentation/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/data/fragmentation/</loc>
+    <loc>https://marinagertsberg.github.io/data/fragmentation/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/academic/</loc>
+    <loc>https://marinagertsberg.github.io/publication-type/2/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/bias/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/digital-platforms/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/evaluations/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/evaluators/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/rating/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/status/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/research/evalutions/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/categories/</loc>
+    <loc>https://marinagertsberg.github.io/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/category/demo/</loc>
+    <loc>https://marinagertsberg.github.io/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/post/</loc>
+    <loc>https://marinagertsberg.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/post/getting-started/</loc>
+    <loc>https://marinagertsberg.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://marinagertsberg.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://marinagertsberg.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://marinagertsberg.github.io/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/plot/</loc>
+    <loc>https://marinagertsberg.github.io/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/category/r/</loc>
+    <loc>https://marinagertsberg.github.io/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/r-markdown/</loc>
+    <loc>https://marinagertsberg.github.io/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/tag/regression/</loc>
+    <loc>https://marinagertsberg.github.io/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/publication-type/2/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://volkovacodes.github.io/tag/disclosure/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://volkovacodes.github.io/research/sec_letters/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://volkovacodes.github.io/tag/ipo/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://volkovacodes.github.io/tag/regulations/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://volkovacodes.github.io/tag/sec/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://volkovacodes.github.io/tag/sec-letters/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://volkovacodes.github.io/research/ceo/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://volkovacodes.github.io/post/writing-technical-content/</loc>
+    <loc>https://marinagertsberg.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/post/jupyter/</loc>
+    <loc>https://marinagertsberg.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/old_privacy/</loc>
+    <loc>https://marinagertsberg.github.io/old_privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/old_terms/</loc>
+    <loc>https://marinagertsberg.github.io/old_terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/research/vpin/</loc>
-    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://volkovacodes.github.io/publication-type/6/</loc>
+    <loc>https://marinagertsberg.github.io/publication-type/6/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/research/ipo/</loc>
+    <loc>https://marinagertsberg.github.io/research/art_market_network/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkovacodes.github.io/admin/</loc>
+    <loc>https://marinagertsberg.github.io/research/price_art_market/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marinagertsberg.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
