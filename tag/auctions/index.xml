@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>auctions | Marina</title>
+    <link>https://marinagertsberg.github.io/tag/auctions/</link>
+      <atom:link href="https://marinagertsberg.github.io/tag/auctions/index.xml" rel="self" type="application/rss+xml" />
+    <description>auctions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinagertsberg.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>auctions</title>
+      <link>https://marinagertsberg.github.io/tag/auctions/</link>
+    </image>
+    
+    <item>
+      <title>Dealer Networks in the World of Art</title>
+      <link>https://marinagertsberg.github.io/research/art_market_network/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://marinagertsberg.github.io/research/art_market_network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
