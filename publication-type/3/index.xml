@@ -5,7 +5,7 @@
     <link>https://marinagertsberg.github.io/publication-type/3/</link>
       <atom:link href="https://marinagertsberg.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://marinagertsberg.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,9 +13,20 @@
     </image>
     
     <item>
+      <title>Appointing Charity Directors in Response to ESG Incidents</title>
+      <link>https://marinagertsberg.github.io/research/esg_directors/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://marinagertsberg.github.io/research/esg_directors/</guid>
+      <description>&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; This paper examines how companies respond to negative ESG incidents by appointing directors with experience in charitable organizations. We find that firms are more likely to make such appointments following ESG incidents, especially when these incidents attract substantial media attention or involve social issues. The market responds positively to these appointments. We further provide evidence that firms genuinely leverage the expertise of charity directors to enhance their ESG performance, rather than appointing them for ESG window dressing. These directors are often assigned to committees overseeing ESG issues, and their appointments are associated with a higher likelihood of implementing ESG-linked compensation policies and a reduction in future incidents, particularly those related to community and workforce issues. This decrease in future incidents is primarily driven by non-overboarded directors. Overall, our findings emphasize the tangible value that charity-experienced directors bring to companies when they need to address ESG concerns.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Who Wants to Move First?</title>
       <link>https://marinagertsberg.github.io/research/first_move/</link>
-      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://marinagertsberg.github.io/research/first_move/</guid>
       <description></description>
     </item>
